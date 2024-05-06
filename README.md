@@ -43,7 +43,7 @@ Ensure you have the following installed:
 ### Usage
 The notebook is divided into several sections, each corresponding to different stages of the analysis:
 
-1 Data Exploration: Understand the data distributions and summaries.
-2 Data Preprocessing: Clean and prepare data for modeling.
-Model Building: Construct and train machine learning models.
-Evaluation: Assess model performance with various metrics.
+- Data Exploration: Understand the data distributions and summaries.
+- Data Preprocessing: Clean and prepare data for modeling.
+- Model Building: Construct and train machine learning models.
+- Evaluation: Assess model performance with various metrics.
