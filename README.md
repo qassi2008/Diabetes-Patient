@@ -9,9 +9,9 @@ The dataset used in this project is derived from the UCI Machine Learning Reposi
 
 
 ## Features
-The dataset includes several features such as:
-Patient number
-Race
+- The dataset includes several features such as:
+- Patient number
+ - Race
 Gender
 Age
 Admission type
