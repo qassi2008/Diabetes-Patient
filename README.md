@@ -1,6 +1,6 @@
-Diabetes Readmission Prediction
+# Diabetes Readmission Prediction
 
-Overview
+## Overview
 This project aims to predict hospital readmission for patients with diabetes using data from 130 US hospitals between 1999 and 2008. 
 The analysis and models developed in the Jupyter notebook "Diabetes_130_US.ipynb" provide insights into factors influencing readmissions and help improve healthcare interventions.
 
